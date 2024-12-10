@@ -1,2 +1,0 @@
-# Janans-fullstack
-
